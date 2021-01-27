@@ -172,7 +172,7 @@ span{
     height: 150px;
 	background-image:url("img/Group_33094_1.png");
 	background-repeat:no-repeat;
-	background-size:50%;
+	background-size:60%;
 	float:left;
     margin-left: 251px;
     margin-top: 80px;
@@ -190,7 +190,7 @@ span{
 	background:#f46060;
 	color:white;
 	position:absolute;
-    margin-left: 360px;
+    margin-left: 389px;
     margin-top: -63px;
     border-radius: 10px;
 }
@@ -198,7 +198,6 @@ span{
     float: right;
     width: 1060px;
     text-align: center;
-    margin-right: 43px;
 }
 .lastdiv p{
 	font-size:25px;
